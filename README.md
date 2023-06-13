@@ -15,7 +15,7 @@ Clone this repository: https://github.com/vinodnextcoder/openai-nodejs
 
 Open the config.js file.
 
-Replace the YOUR_OPENAI_API_KEY placeholder with your actual OpenAI API key.
+Replace the YOUR_OPENAI_API_KEY sssdsdplaceholder with your actual OpenAI API key.
 
 Usage
 The repository includes examples for three different API endpoints: createEmbedding, createCompletion, and createChatCompletion. Here's how you can use each of them:
